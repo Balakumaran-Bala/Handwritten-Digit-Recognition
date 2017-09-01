@@ -8,7 +8,7 @@ Following the multiple layers is an iterative algorithm used to find the minimum
 
 # Architecture
 
-Our Convolutional Neural Network consists of the following layers: 
+The Convolutional Neural Network consists of the following layers: 
 - Convolution Layer: Searches for the spacial arrangement of features in the image entered   
 - Pooling Layer: Down-samples the entire 28x28 matrix to a 7x7 matrix and finds the feature which has maximum frequency in each quadrant
 - Feature Extraction Layer: Searches for combinations of the basic features
